@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Owen Ayotte`
+- **CCID:** `OTAYOTTE`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Claude Sonnet 5 9/17/2026
 
 ## Verbal Collaboration
 
